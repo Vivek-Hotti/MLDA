@@ -1,0 +1,312 @@
+﻿Emp_ID,Salary,Gender,Remarks
+10026,62506,Male ,Nice
+10084,104437,Male ,Good 
+10196,64955,Female,Good 
+10088,64991,Female,Nice
+10069,50825,Female,Nice
+10002,57568,Female,Nice
+10194,95660,Female,Good 
+10062,59365,Male ,Nice
+10114,47837,Female,Good 
+10250,50178,Male ,Excellent
+10252,54670,Female,Good 
+10242,47211,Male ,Good 
+10012,92328,Male ,Good 
+10265,58709,Male ,Nice
+10066,52505,Male ,Excellent
+10061,57834,Male ,Good 
+10023,70131,Female,Nice
+10055,59026,Female,Nice
+10245,110000,Female,Good 
+10277,53250,Male ,Nice
+10046,51044,Male ,Nice
+10226,64919,Female,Excellent
+10003,62910,Female,Good 
+10294,66441,Female,Good 
+10267,57815,Female,Nice
+10199,103613,Male ,Nice
+10081,106367,Female,Nice
+10175,74312,Male ,Excellent
+10177,53492,Female,Nice
+10238,63000,Female,Good 
+10184,65288,Male ,Excellent
+10203,64375,Female,Good 
+10188,74326,Female,Good 
+10107,63763,Female,Good 
+10181,62162,Male ,Nice
+10150,77692,Male ,Nice
+10001,72640,Male ,Good 
+10085,93396,Female,Nice
+10115,52846,Male ,Nice
+10082,100031,Female,Excellent
+10040,71860,Female,Nice
+10067,61656,Female,Nice
+10108,110929,Male ,Nice
+10210,54237,Female,Good 
+10154,60380,Male ,Good 
+10200,66808,Male ,Nice
+10240,64786,Female,Nice
+10168,64816,Female,Nice
+10220,68678,Male ,Good 
+10275,64066,Female,Nice
+10269,59369,Male ,Good 
+10029,50373,Male ,Excellent
+10261,63108,Male ,Good 
+10292,59144,Male ,Good 
+10282,68051,Male ,Good 
+10019,170500,Male ,Nice
+10094,63381,Female,Nice
+10193,83552,Male ,Good 
+10132,56149,Female,Nice
+10083,92329,Male ,Nice
+10099,65729,Female,Good 
+10212,85028,Female,Excellent
+10056,57583,Female,Nice
+10143,56294,Male ,Nice
+10311,56991,Male ,Good 
+10070,55722,Male ,Good 
+10155,101199,Female,Nice
+10306,61568,Male ,Nice
+10100,58275,Female,Nice
+10310,53189,Male ,Good 
+10197,96820,Male ,Excellent
+10276,51259,Male ,Good 
+10304,59231,Female,Nice
+10284,61584,Female,Good 
+10207,46335,Female,Good 
+10133,70621,Female,Good 
+10028,138888,Male ,Nice
+10006,74241,Female,Nice
+10105,75188,Female,Excellent
+10211,62514,Female,Nice
+10064,60070,Female,Nice
+10247,48888,Male ,Good 
+10235,54285,Male ,Nice
+10299,56847,Female,Nice
+10280,60340,Male ,Nice
+10296,59124,Female,Excellent
+10290,99280,Female,Good 
+10263,71776,Female,Nice
+10136,65902,Female,Nice
+10189,57748,Female,Nice
+10308,64057,Male ,Good 
+10309,53366,Male ,Nice
+10049,58530,Female,Excellent
+10093,72609,Male ,Nice
+10163,55965,Female,Good 
+10305,70187,Male ,Good 
+10015,178000,Male ,Good 
+10080,99351,Female,Nice
+10258,67251,Male ,Nice
+10273,65707,Female,Good 
+10111,52249,Male ,Nice
+10257,53171,Female,Excellent
+10159,51337,Female,Good 
+10122,51505,Female,Nice
+10142,59370,Female,Nice
+10283,54933,Male ,Nice
+10018,57815,Female,Good 
+10255,61555,Female,Good 
+10246,114800,Female,Excellent
+10228,74679,Male ,Nice
+10243,53018,Female,Nice
+10031,59892,Male ,Good 
+10300,68898,Male ,Nice
+10101,61242,Female,Good 
+10237,66825,Female,Nice
+10051,48285,Male ,Good 
+10218,66149,Female,Excellent
+10256,49256,Female,Good 
+10098,62957,Male ,Excellent
+10059,63813,Female,Nice
+10234,99020,Male ,Good 
+10109,71707,Male ,Nice
+10125,54828,Female,Nice
+10074,64246,Male ,Excellent
+10097,52177,Female,Nice
+10007,62065,Female,Nice
+10129,46998,Male ,Nice
+10075,68099,Female,Good 
+10167,70545,Male ,Excellent
+10195,63478,Female,Nice
+10112,97999,Female,Nice
+10272,180000,Female,Nice
+10182,49920,Female,Good 
+10248,55425,Female,Excellent
+10201,69340,Female,Good 
+10214,64995,Female,Nice
+10160,68182,Female,Good 
+10289,83082,Male ,Good 
+10139,51908,Female,Good 
+10227,61242,Female,Excellent
+10236,45069,Female,Nice
+10009,60724,Female,Good 
+10060,60436,Female,Nice
+10034,46837,Male ,Nice
+10156,105700,Female,Excellent
+10036,63322,Female,Nice
+10138,61154,Female,Nice
+10244,68999,Female,Nice
+10192,50482,Male ,Good 
+10231,65310,Male ,Good 
+10089,250000,Female,Nice
+10166,54005,Female,Excellent
+10170,45433,Female,Nice
+10208,46654,Male ,Good 
+10176,63973,Male ,Nice
+10165,71339,Male ,Good 
+10113,93206,Male ,Nice
+10092,82758,Male ,Good 
+10106,66074,Female,Good 
+10052,46120,Male ,Good 
+10038,64520,Male ,Excellent
+10249,61962,Male ,Nice
+10232,81584,Female,Good 
+10087,63676,Female,Nice
+10134,93046,Male ,Nice
+10251,64738,Male ,Good 
+10103,70468,Male ,Nice
+10017,77915,Female,Nice
+10186,52624,Female,Nice
+10137,63450,Male ,Good 
+10008,51777,Female,Excellent
+10096,67237,Female,Nice
+10035,73330,Female,Nice
+10057,52057,Female,Nice
+10004,47434,Female,Good 
+10191,52788,Male ,Nice
+10219,45395,Female,Good 
+10077,62385,Female,Nice
+10073,68407,Female,Good 
+10279,61349,Female,Good 
+10110,105688,Female,Good 
+10053,54132,Female,Excellent
+10076,55315,Female,Nice
+10145,62810,Female,Good 
+10202,63291,Male ,Nice
+10128,62659,Female,Nice
+10068,55688,Female,Good 
+10116,83667,Male ,Nice
+10298,55800,Male ,Nice
+10213,58207,Male ,Nice
+10288,157000,Male ,Excellent
+10025,72460,Female,Good 
+10223,72106,Male ,Nice
+10151,52599,Female,Nice
+10254,63430,Female,Nice
+10120,74417,Male ,Good 
+10216,57575,Male ,Nice
+10079,87921,Male ,Good 
+10215,50470,Male ,Excellent
+10185,46664,Male ,Good 
+10063,48495,Male ,Good 
+10037,52984,Female,Good 
+10042,63695,Female,Nice
+10206,62061,Female,Nice
+10104,66738,Female,Good 
+10303,52674,Female,Nice
+10078,71966,Female,Nice
+10121,63051,Female,Good 
+10021,47414,Male ,Nice
+10281,53060,Male ,Nice
+10041,68829,Male ,Excellent
+10148,63515,Female,Good 
+10005,108987,Male ,Good 
+10259,93093,Male ,Nice
+10286,53564,Male ,Nice
+10297,60270,Female,Nice
+10171,45998,Female,Good 
+10032,57954,Female,Nice
+10130,74669,Female,Excellent
+10217,74226,Female,Nice
+10016,93554,Female,Good 
+10050,64724,Male ,Good 
+10164,47001,Male ,Good 
+10124,61844,Female,Nice
+10187,46799,Female,Nice
+10225,59472,Male ,Good 
+10262,46430,Female,Nice
+10131,83363,Male ,Nice
+10239,95920,Female,Good 
+10152,61729,Male ,Excellent
+10140,61809,Male ,Nice
+10058,45115,Male ,Nice
+10011,46738,Female,Good 
+10230,64971,Female,Good 
+10224,55578,Male ,Nice
+10047,50428,Male ,Nice
+10285,61422,Female,Excellent
+10020,63353,Male ,Excellent
+10162,89883,Female,Excellent
+10149,120000,Female,Excellent
+10086,150290,Female,Nice
+10054,60627,Female,Good 
+10065,53180,Male ,Good 
+10198,140920,Male ,Good 
+10222,148999,Male ,Nice
+10126,86214,Female,Nice
+10295,47750,Female,Good 
+10260,46428,Male ,Nice
+10233,57975,Male ,Nice
+10229,88527,Male ,Good 
+10169,56147,Female,Nice
+10071,50923,Female,Nice
+10179,50750,Female,Nice
+10091,52087,Female,Good 
+10178,87826,Male ,Good 
+10039,51920,Female,Nice
+10095,63878,Female,Excellent
+10027,60656,Male ,Excellent
+10291,72992,Male ,Excellent
+10153,55000,Female,Excellent
+10157,58939,Female,Excellent
+10119,66593,Female,Excellent
+10180,87565,Male ,Excellent
+10302,64021,Female,Excellent
+10090,65714,Female,Excellent
+10030,62425,Female,Nice
+10278,47961,Female,Nice
+10307,58273,Male ,Good 
+10147,63003,Male ,Nice
+10266,61355,Male ,Nice
+10241,60120,Female,Good 
+10158,63682,Female,Nice
+10117,63025,Male ,Nice
+10209,59238,Female,Nice
+10024,92989,Male ,Good 
+10173,90100,Male ,Good 
+10221,60754,Female,Nice
+10146,72202,Female,Nice
+10161,58370,Female,Nice
+10141,48413,Female,Good 
+10268,67176,Male ,Nice
+10123,56339,Female,Good 
+10013,64397,Male ,Excellent
+10287,63025,Female,Excellent
+10044,75281,Male ,Excellent
+10102,100416,Male ,Excellent
+10270,74813,Female,Excellent
+10045,76029,Male ,Excellent
+10205,57859,Female,Good 
+10014,58523,Male ,Nice
+10144,88976,Male ,Nice
+10253,55875,Male ,Good 
+10118,113999,Male ,Nice
+10022,49773,Female,Nice
+10183,62068,Female,Nice
+10190,66541,Male ,Good 
+10274,80512,Female,Good 
+10293,50274,Female,Nice
+10172,84903,Male ,Nice
+10127,107226,Female,Nice
+10072,58371,Male ,Good 
+10048,55140,Male ,Nice
+10204,58062,Female,Good 
+10264,59728,Female,Nice
+10033,70507,Male ,Good 
+10174,60446,Female,Excellent
+10135,65893,Male ,Excellent
+10301,48513,Female,Excellent
+10010,220450,Female,Excellent
+10043,89292,Female,Good 
+10271,45046,Female,Nice
